@@ -260,3 +260,6 @@ footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; g
 
 .alt-num { margin-top: 8px; font-family: var(--display); font-weight: 800; font-stretch: 75%; font-size: clamp(1.25rem, 3vw, 1.75rem); color: var(--on-night); }
 .alt-num a { color: inherit; text-decoration: none; font-variant-numeric: tabular-nums; }
+
+.mail-line { margin-top: 6px; font-size: 1.05rem; }
+.mail-line a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
